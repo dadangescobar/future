@@ -1,3 +1,4 @@
 isi ide:
 - uji coba github
 - cara cara github melalui UNPAS YT 
+- kolaborasi tugas akhir dicoding
